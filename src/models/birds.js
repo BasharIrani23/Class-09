@@ -1,11 +1,13 @@
-const Dog = (sequelize, DataTypes) =>
-    sequelize.define("Dog", {
+"use strict";
+
+const Bird = (sequelize, DataTypes) =>
+    sequelize.define("Bird", {
         name: {
-            type: DataTypes.STRING(255),
+            type: DataTypes.STRING,
             allowNull: false,
         },
-        breed: {
-            type: DataTypes.STRING(255),
+        species: {
+            type: DataTypes.STRING,
             allowNull: false,
         },
         age: {
@@ -18,4 +20,4 @@ const Dog = (sequelize, DataTypes) =>
         },
     });
 
-module.exports = Dog;
+module.exports = Bird;
