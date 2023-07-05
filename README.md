@@ -18,7 +18,7 @@ To install and run the project locally, please follow these steps:
 
 
 # Project Description and Features
-### Our project focuses on user authentication, data management, and relational database operations. It provides a foundation for building the backend functionality of an application that requires user registration, authentication, and various data collections with associated relationships.
+*Our project focuses on user authentication, data management, and relational database operations. It provides a foundation for building the backend functionality of an application that requires user registration, authentication, and various data collections with associated relationships.*
 ### The project is built with :
 - Node.js: It is a JavaScript runtime environment used for server-side development.
 - Sequelize: It is an ORM (Object-Relational Mapping) library for Node.js that provides an abstraction layer for interacting with relational databases.
