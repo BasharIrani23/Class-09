@@ -33,6 +33,6 @@ To install and run the project locally, please follow these steps:
  This project is licensed under the ⚖️ MIT License ⚖️
 
 # Contact
-If you have any questions or feedback, please feel free to contact us at [Bashar Alirani](https://www.linkedin.com/in/bashar-al-erani/)  [Ala'a AlNsairat](https://www.linkedin.com/in/alaa-nsairat-60a10b22b/)
+If you have any questions or feedback, please feel free to contact us  [Bashar Alirani](https://www.linkedin.com/in/bashar-al-erani/) & [Ala'a AlNsairat](https://www.linkedin.com/in/alaa-nsairat-60a10b22b/)
 
 
