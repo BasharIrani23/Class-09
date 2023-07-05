@@ -20,11 +20,11 @@ Pet-auth-9 is a backend application that handles user authentication and manages
 
 # Installation 
 To install and run the project locally, please follow these steps:
-1- Ensure you have Node.js installed on your machine. You can download and install it from the official Node.js website: https://nodejs.org
-2- Clone the project repository to your local machine.
-3- Navigate to the project directory in your terminal or command prompt.
-4- Install the project dependencies by running the following command: *npm install* 
-5- Create a .env file in the root of the project directory and configure any necessary environment variables. For example, if you need to set a DB_URI variable for connecting to your database, add the following line to the .env file: *DB_URI=your_database_uri*
-6-Run the project using the following command:*npm start* 
+- 1- Ensure you have Node.js installed on your machine. You can download and install it from the official Node.js website: https://nodejs.org
+- 2- Clone the project repository to your local machine.
+- 3- Navigate to the project directory in your terminal or command prompt.
+- 4- Install the project dependencies by running the following command: *npm install* 
+- 5- Create a .env file in the root of the project directory and configure any necessary environment variables. For example, if you need to set a DB_URI variable for connecting to your database, add the following line to the .env file: *DB_URI=your_database_uri*
+- 6-Run the project using the following command:*npm start* 
 
 
