@@ -7,7 +7,7 @@
 Pet-auth-9 is a backend application that handles user authentication and manages various data collections The project utilizes the Sequelize ORM (Object-Relational Mapping) library along with a relational database (PostgreSQL) to store and manage data. It defines several models such as User, Dog, Cat, Bird, Hamster, and Favorite, each representing a specific entity in the system. 
 
 # Project Description and Features
-## Our project focuses on user authentication, data management, and relational database operations. It provides a foundation for building the backend functionality of an application that requires user registration, authentication, and various data collections with associated relationships.
+### Our project focuses on user authentication, data management, and relational database operations. It provides a foundation for building the backend functionality of an application that requires user registration, authentication, and various data collections with associated relationships.
 ### The project is built with :
 - Node.js:It is a JavaScript runtime environment used for server-side development.
 - Sequelize: It is an ORM (Object-Relational Mapping) library for Node.js that provides an abstraction layer for interacting with relational databases.
