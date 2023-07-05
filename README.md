@@ -29,6 +29,8 @@ To install and run the project locally, please follow these steps:
 - Supertest: It is a library for testing HTTP servers, allowing you to make requests and assert their responses in your tests.
 - dotenv: It is a module for loading environment variables from a .env file, enabling easier management of environment-specific configurations.
 
+ # License
+ This project is licensed under the ⚖️ MIT License ⚖️
 
 
 
